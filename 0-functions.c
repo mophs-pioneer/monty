@@ -1,4 +1,4 @@
-#include "montyT.h"
+#include "monty.h"
 
 int value;
 
