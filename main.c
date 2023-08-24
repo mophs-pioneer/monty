@@ -52,4 +52,3 @@ if (fgets(content, size, file) != NULL) {
 	fclose(file);
 return (0);
 }
-}
